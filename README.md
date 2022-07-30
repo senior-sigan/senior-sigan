@@ -16,4 +16,4 @@ My interests are neural networks, [game development](https://catinthedark.itch.i
 
 ### Github stats
 
-[![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=senior-sigan)](https://github.com/anuraghazra/github-readme-stats)
+[![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=senior-sigan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
