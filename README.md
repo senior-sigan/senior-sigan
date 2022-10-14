@@ -12,7 +12,7 @@ My interests are neural networks, [game development](https://catinthedark.itch.i
 
 ### Where to find me
 
-[🌐 My site](https://senior-sigan.net) · [🐦  twitter](https://twitter.com/senior_sigan) · [💌  email](mailto:ilya.siganov@gmail.com) · [📺  Youtube](https://www.youtube.com/channel/UCz5d8og-QZdxBk-_-bI-93g)
+[🌐 My site](https://senior-sigan.ru) · [🐦  twitter](https://twitter.com/senior_sigan) · [💌  email](mailto:ilya.siganov@gmail.com) · [📺  Youtube](https://www.youtube.com/channel/UCz5d8og-QZdxBk-_-bI-93g)
 
 ### Github stats
 
