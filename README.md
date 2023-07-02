@@ -2,9 +2,9 @@
 
 I’m a 👨‍💻 software engineer at [7bits](https://7bits.it/) with experience in 🤖 machine learning and data analysis. 
 
-Also I work on my 👨‍🎓 Ph.D dissertation on a Neural Network to [draw](https://t.me/mlglitchart) [anime](http://nijigenka.7bits.it/) 🌸. 
+Also I work on my 👨‍🎓 Ph.D dissertation on a Neural Network to draw [anime](http://nijigenka.7bits.it/) 🌸. 
 
-In spare time I 🧙‍♂️ [teach](https://www.youtube.com/@IlyaSiga/videos) students coding and machine learning at [Omsk State University](https://omsu.ru/) and [IT-lift](http://itlift.1der.link/).
+In spare time I 🧙 [teach](https://www.youtube.com/@IlyaSiga/videos) students coding and machine learning at [Omsk State University](https://omsu.ru/) and [IT-lift](http://itlift.1der.link/).
 
 Here in Omsk I started a [Machine Learning community](https://vk.com/mlomsk) [back in 2017](https://vk.com/wall-141957789_2) to evolve this field in my hometown.
 
